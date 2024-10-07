@@ -20,7 +20,12 @@ This is a prototype **Dataset Recommender System** developed using the Django fr
 
 ## Screenshots
 
+### Homepage
+
 ![Dataset Recommender Homepage](screenshots/homepage.png "Homepage of the Dataset Recommender")
+
+### Sample Dataset page
+
 ![Dataset Recommender - Sample Dataset](screenshots/sample-dataset.png "Page of a Sample Dataset")
 
 ## Tech Stack
