@@ -23,3 +23,5 @@ This is a prototype **Dataset Recommender System** developed using the Django fr
 - Simple, clean UI using custom HTML and CSS.
 
 ## Screenshots
+
+![Dataset Recommender Homepage](screenshots/sample-dataset.png "Homepage of the Dataset Recommender")
