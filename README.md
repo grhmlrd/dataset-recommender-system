@@ -4,12 +4,8 @@
 
 - [Project Description](#project-description)
 - [Features](#features)
-<!-- - [Installation](#installation) -->
-- [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [License](#license)
-- [Contact](#contact)
+- [Tech Stack](#tech-stack)
 
 ## Project Description
 
@@ -24,4 +20,11 @@ This is a prototype **Dataset Recommender System** developed using the Django fr
 
 ## Screenshots
 
-![Dataset Recommender Homepage](screenshots/sample-dataset.png "Homepage of the Dataset Recommender")
+![Dataset Recommender Homepage](screenshots/homepage.png "Homepage of the Dataset Recommender")
+![Dataset Recommender - Sample Dataset](screenshots/sample-dataset.png "Page of a Sample Dataset")
+
+## Tech Stack
+
+- **Backend**: Django (Python)
+- **Frontend**: HTML, CSS, JavaScript
+- **Database**: SQLite (for local development)
